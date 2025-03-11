@@ -32,3 +32,4 @@ title: "Coursework"
 |Radio Journalism|Universidad Carlos III de Madrid|Fall 2023|
 |INF STD 20: Digital Culture and Society|UCLA|Spring 2023|
 |LING 20: Introduction to Linguistic Analysis|UCLA|Fall 2022|
+|ECON 100A: Intermediate Microeconomics|UC Berkeley|Summer 2022|

@@ -1,9 +1,12 @@
 ---
 title: "Home"
+about:
+  template: jolla
+  image: image/madelinekimheadshotsquare.jpg
 ---
 
-This is a Quarto website.
+*Hi!*
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm Madeline, a fourth-year at UCLA studying Statistics and Data Science.
 
-changed
+
