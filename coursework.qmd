@@ -1,0 +1,33 @@
+---
+title: "Coursework"
+---
+**Statistical Coursework**
+
+|Courses|Institution|Term|
+|---------------------|----|-----|
+|MATH 115A: Linear Algebra|UCLA|Winter 2025|
+|STATS 140XP: Statistical Consulting|UCLA|Winter 2025|
+|STATS 101C: Introduction to Statistical Models and Data Mining|UCLA|Fall 2024|
+|STATS 102C: Introduction to Monte Carlo Methods|UCLA|Fall 2024|
+|DH 101: Introduction to Digital Humanities|UCLA|Summer 2024|
+|STATS 100C: Linear Models|UCLA|Spring 2024|
+|STATS 102B: Introduction to Computation and Optimization for Statistics|UCLA|Spring 2024|
+|STATS 102A: Introduction to Computational Statistics with R|UCLA|Winter 2024|
+|STATS 101B: Introduction to Design and Analysis of Experiment II|UCLA|Spring 2023|
+|STATS 100B: Introduction to Mathematical Statistics|UCLA|Spring 2023|
+|STATS 101A: Introduction to Design and Analysis of Experiment|UCLA|Winter 2023|
+|MATH 170E: Introduction to Probability and Statistics 1: Probability|UCLA|Winter 2023|
+|STATS 20: Introduction to Statistical Programming with R|UCLA|Spring 2022|
+
+\
+**Relevant Non-Statistical Coursework**
+\
+
+|Courses|Institution|Term|
+|--------------|----------|-----|
+|COMM 1: Principles of Oral Communication|UCLA|Fall 2024|
+|POL SCI 20: World Politics|UCLA|Winter 2024|
+|Global Consumer Behavior|Universidad Carlos III de Madrid|Fall 2023|
+|Spain and the EU: Political and Economic Issues|Universidad Carlos III de Madrid|Fall 2023|
+|INF STD 20: Digital Culture and Society|UCLA|Spring 2023|
+|LING 20: Introduction to Linguistic Analysis|UCLA|Fall 2022|
