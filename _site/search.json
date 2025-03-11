@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About me\nCurrently, I am a fourth-year student at UCLA, majoring in Statistics and Data Science. I am a Data Consultant and the Technical Writer for the UCLA DataSquad, located in the UCLA Data Science Center in the Young Research Library."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]

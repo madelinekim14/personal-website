@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+*About me*
+
+Currently, I am a fourth-year student at UCLA, majoring in Statistics and Data Science. I am a Data Consultant and the Technical Writer for the UCLA DataSquad, located in the UCLA Data Science Center in the Young Research Library.
