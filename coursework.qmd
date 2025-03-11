@@ -29,5 +29,6 @@ title: "Coursework"
 |POL SCI 20: World Politics|UCLA|Winter 2024|
 |Global Consumer Behavior|Universidad Carlos III de Madrid|Fall 2023|
 |Spain and the EU: Political and Economic Issues|Universidad Carlos III de Madrid|Fall 2023|
+|Radio Journalism|Universidad Carlos III de Madrid|Fall 2023|
 |INF STD 20: Digital Culture and Society|UCLA|Spring 2023|
 |LING 20: Introduction to Linguistic Analysis|UCLA|Fall 2022|
