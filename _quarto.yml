@@ -1,5 +1,7 @@
 project:
   type: website
+  resources: 
+    - madelinekimresume.pdf
 
 website:
   title: "Madeline Kim"
@@ -17,6 +19,7 @@ format:
     theme:
       - solar
       - brand
+    fontcolor: white
     css: styles.css
     toc: true
 

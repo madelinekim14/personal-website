@@ -4,4 +4,30 @@ title: "About"
 
 *About me*
 
-Currently, I am a fourth-year student at UCLA, majoring in Statistics and Data Science. I am also a Data Consultant and the Technical Writer for the UCLA DataSquad, located in the UCLA Data Science Center in the Young Research Library.
+I grew up in Oakland, California and am currently living in Los Angeles for school. After graduation, I will be moving to Madison, Wisconsin to work for Epic Healthcare Systems in Verona, WI. 
+
+<p align="center">
+<img
+src="bakedpotato.jpg"
+alt="Me outside the Baked Potato!"
+style="margin-Bottom: 2.5em; margin-top: 1.5em; margin-left: 1.5em"
+width="40%"
+height="40%"
+/>
+<br>
+  <span style="font-size: 14px; color: gray;">Me outside the Baked Potato!</span>
+</p>
+
+Outside of school, I enjoy seeing live music and exploring LA's many cafes and restaurants. My favorite restaurant in LA is Messob on Fairfax, as I have loved Ethiopian food since childhood, and I also enjoy the Alcove in Los Feliz or Layla's Bagels in Santa Monica for brunch. 
+
+<p align="center">
+<img
+src="messob.jpg"
+alt="The Super Messob Combo at Messob"
+style="margin-Bottom: 2.5em; margin-top: 1.5em; margin-left: 1.5em"
+width="50%"
+height="50%"
+/>
+<br>
+  <span style="font-size: 14px; color: gray;">The Super Messob Combo at Messob</span>
+</p>

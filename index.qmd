@@ -1,12 +1,43 @@
 ---
-title: "Home"
+title: "Madeline Kim"
 about:
+  id: joltemp
   template: jolla
-  image: image/madelinekimheadshotsquare.jpg
+  image: madelinekimheadshotsquare.jpg
+  links:
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/madeline-kim-14-x2025/"
+    - text: Email
+      url: "mailto:madelinekim14@gmail.com"
 ---
-
-*Hi!*
-
+:::{#joltemp}
+<div style="text-align: center;">
+*Hi there!*
+</div>
 I'm Madeline, a fourth-year at UCLA studying Statistics and Data Science.
 
+:::
+\
+<div style="text-align: left;">
+## Work Experience
+  Currently, I work as a Data Consultant and the Technical Writer for the UCLA DataSquad, 
+  located in the UCLA Data Science Center in the Young Research Library.
+</div>
 
+<div style="text-align: center;">
+  <img src="datasquadphoto.jpg" alt="The 2024-25 UCLA DataSquad" width="300">
+  
+  You can find blogs I've written for the DataSquad [here](https://ucla-datasquad.github.io/).
+</div>
+
+
+
+<div style="text-align: left;">
+  In addition to my work as a DataSquad consultant, I am an undergraduate research assistant for PhD. Grace Qiyuan   Miao at the UCLA CoMind Lab, and was previously an undergrad RA for the UCLA Language Processing Lab under        Professor Jesse Harris. 
+</div>
+
+<div style="text-align: center;">
+<a href="madelinekimresume.pdf" target="_blank">
+  <button type="button" class="btn btn-light btn-lg">Resume</button>
+</a>
+</div>
