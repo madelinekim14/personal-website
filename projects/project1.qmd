@@ -1,0 +1,12 @@
+---
+title: Terrence Keel Deaths in Police Custody Consultation
+image: images/police.jpeg
+---
+
+## Summary
+
+As a DataSquad Consultant, I cleaned datasets on deaths in police custody across the United States and filtered deaths by cause and state. The summary statistics found are filtered by whether or not state and county populations are standardized per 100k residents.
+
+## Deliverables
+
+<iframe src="tablescounties.pdf" width="100%" height="600px" style="border: none;"></iframe>

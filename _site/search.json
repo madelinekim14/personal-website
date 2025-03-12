@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Madeline Kim",
     "section": "",
-    "text": "Hi there!\n\nI’m Madeline, a fourth-year at UCLA studying Statistics and Data Science.\n \n  \n   \n  \n     LinkedIn\n  \n  \n     Email"
+    "text": "Hi there!\n\nI’m Madeline, a fourth-year at UCLA studying Statistics and Data Science.\n \n  \n   \n  \n     LinkedIn\n  \n  \n     Email\n  \n  \n     Resume"
   },
   {
     "objectID": "index.html#work-experience",
@@ -21,10 +21,80 @@
     "text": "Work Experience\nCurrently, I work as a Data Consultant and the Technical Writer for the UCLA DataSquad, located in the UCLA Data Science Center in the Young Research Library."
   },
   {
+    "objectID": "projects/project3.html#deliverables",
+    "href": "projects/project3.html#deliverables",
+    "title": "MLB 2022 Playoff Prediction Project",
+    "section": "Deliverables",
+    "text": "Deliverables\nFull Project Medium Article\nPresentation  \nTableau Dashboard"
+  },
+  {
+    "objectID": "projects/project1.html#deliverables",
+    "href": "projects/project1.html#deliverables",
+    "title": "Terrence Keel Deaths in Police Custody Consultation",
+    "section": "Deliverables",
+    "text": "Deliverables"
+  },
+  {
+    "objectID": "projects/project2.html",
+    "href": "projects/project2.html",
+    "title": "Effects of COVID on Education (DH 101 Final Project)",
+    "section": "",
+    "text": "Our team examined data from the Stanford Education Data Archive (SEDA) to answer two questions:\n\nTo what extent were racial academic achievement gaps of students grades [K-12] in the United States impacted by their school’s response to COVID-19?\nHow does the gap in test-based achievement between years pre- and post-COVID pandemic vary between different states and why?\n\nThrough data analysis, we concluded that Black and Hispanic children faced significant drops in test scores due to increased impact of poverty and access to resources. Across different states, the pandemic affected test scores for children in more impoverished states, regardless of race."
+  },
+  {
+    "objectID": "projects/project2.html#summary",
+    "href": "projects/project2.html#summary",
+    "title": "Effects of COVID on Education (DH 101 Final Project)",
+    "section": "",
+    "text": "Our team examined data from the Stanford Education Data Archive (SEDA) to answer two questions:\n\nTo what extent were racial academic achievement gaps of students grades [K-12] in the United States impacted by their school’s response to COVID-19?\nHow does the gap in test-based achievement between years pre- and post-COVID pandemic vary between different states and why?\n\nThrough data analysis, we concluded that Black and Hispanic children faced significant drops in test scores due to increased impact of poverty and access to resources. Across different states, the pandemic affected test scores for children in more impoverished states, regardless of race."
+  },
+  {
+    "objectID": "projects/project2.html#deliverables",
+    "href": "projects/project2.html#deliverables",
+    "title": "Effects of COVID on Education (DH 101 Final Project)",
+    "section": "Deliverables",
+    "text": "Deliverables\n\nTeam Website\nTeam Website\n\n\nTableau Visualizations"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Terrence Keel Deaths in Police Custody Consultation\n\n\n\n\n\n\n\n\n\n\n\n\n\nEffects of COVID on Education (DH 101 Final Project)\n\n\n\n\n\n\n\n\n\n\n\n\n\nMLB 2022 Playoff Prediction Project\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About me\nI grew up in Oakland, California and am currently living in Los Angeles for school. After graduation, I will be moving to Madison, Wisconsin to work for Epic Healthcare Systems in Verona, WI.\n\n  Me outside the Baked Potato!\n\nOutside of school, I enjoy seeing live music and exploring LA’s many cafes and restaurants. My favorite restaurant in LA is Messob on Fairfax, as I have loved Ethiopian food since childhood, and I also enjoy the Alcove in Los Feliz or Layla’s Bagels in Santa Monica for brunch.\n\n  The Super Messob Combo at Messob"
+  },
+  {
+    "objectID": "projects/project3.html",
+    "href": "projects/project3.html",
+    "title": "MLB 2022 Playoff Prediction Project",
+    "section": "",
+    "text": "To predict the MLB Teams that would make the 2022 Playoffs, our team webscraped and cleaned game statistics from 2001-2022 to create a dataset we could perform models with. We used KNN, Logistic Regression, and Gaussian Bayes with KNN returning a 73.4% accuracy rate."
+  },
+  {
+    "objectID": "projects/project3.html#summary",
+    "href": "projects/project3.html#summary",
+    "title": "MLB 2022 Playoff Prediction Project",
+    "section": "",
+    "text": "To predict the MLB Teams that would make the 2022 Playoffs, our team webscraped and cleaned game statistics from 2001-2022 to create a dataset we could perform models with. We used KNN, Logistic Regression, and Gaussian Bayes with KNN returning a 73.4% accuracy rate."
+  },
+  {
+    "objectID": "projects/project1.html",
+    "href": "projects/project1.html",
+    "title": "Terrence Keel Deaths in Police Custody Consultation",
+    "section": "",
+    "text": "As a DataSquad Consultant, I cleaned datasets on deaths in police custody across the United States and filtered deaths by cause and state. The summary statistics found are filtered by whether or not state and county populations are standardized per 100k residents."
+  },
+  {
+    "objectID": "projects/project1.html#summary",
+    "href": "projects/project1.html#summary",
+    "title": "Terrence Keel Deaths in Police Custody Consultation",
+    "section": "",
+    "text": "As a DataSquad Consultant, I cleaned datasets on deaths in police custody across the United States and filtered deaths by cause and state. The summary statistics found are filtered by whether or not state and county populations are standardized per 100k residents."
   }
 ]
